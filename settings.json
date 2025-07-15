@@ -1,0 +1,6 @@
+{
+  "project_name": "RustRoverProject",
+  "version": "1.0.0",
+  "debug": true,
+  "max_connections": 15
+}
