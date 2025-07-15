@@ -1,0 +1,20 @@
+# Rust build output
+/target/
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency/package manager files
+Cargo.lock
+
+# By-products of cargo
+**/*.rs.bk
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
+
+game_db/
